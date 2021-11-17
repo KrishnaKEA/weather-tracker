@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(106, 106, 106);
+
+}
+
+
+.superDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.maindiv {
+    margin-top:40px;
+    padding: 10px;
+    align-content: center;
+}
+h1 {
+    color: blue;
+}
